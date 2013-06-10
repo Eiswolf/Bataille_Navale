@@ -9,6 +9,7 @@ let (tab,(nav_x,nav_y)) = init_plateau() in
 let choix = ref "" in
 let nombreCoups = ref 1 in
 
+
 affiche_plateau_graphic(tab);
 
 
